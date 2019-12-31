@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Tal-Sasson-27-12-2019/static/css/main.5c1dc5d9.chunk.css",
+    "main.js": "/Tal-Sasson-27-12-2019/static/js/main.43ce1cbf.chunk.js",
+    "main.js.map": "/Tal-Sasson-27-12-2019/static/js/main.43ce1cbf.chunk.js.map",
+    "runtime-main.js": "/Tal-Sasson-27-12-2019/static/js/runtime-main.6a352325.js",
+    "runtime-main.js.map": "/Tal-Sasson-27-12-2019/static/js/runtime-main.6a352325.js.map",
+    "static/js/2.1b2731dd.chunk.js": "/Tal-Sasson-27-12-2019/static/js/2.1b2731dd.chunk.js",
+    "static/js/2.1b2731dd.chunk.js.map": "/Tal-Sasson-27-12-2019/static/js/2.1b2731dd.chunk.js.map",
+    "index.html": "/Tal-Sasson-27-12-2019/index.html",
+    "precache-manifest.983ec8fd532f8767f8f81d1879550956.js": "/Tal-Sasson-27-12-2019/precache-manifest.983ec8fd532f8767f8f81d1879550956.js",
+    "service-worker.js": "/Tal-Sasson-27-12-2019/service-worker.js",
+    "static/css/main.5c1dc5d9.chunk.css.map": "/Tal-Sasson-27-12-2019/static/css/main.5c1dc5d9.chunk.css.map",
+    "static/js/2.1b2731dd.chunk.js.LICENSE": "/Tal-Sasson-27-12-2019/static/js/2.1b2731dd.chunk.js.LICENSE",
+    "static/media/bg.jpeg": "/Tal-Sasson-27-12-2019/static/media/bg.e7be0b47.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a352325.js",
+    "static/js/2.1b2731dd.chunk.js",
+    "static/css/main.5c1dc5d9.chunk.css",
+    "static/js/main.43ce1cbf.chunk.js"
+  ]
+}
